@@ -134,6 +134,7 @@
     --------------------*/
     --note-list-bar-background: var(--color-neutral-800);
     --note-list-bar-border-right: 1px solid hsl(var(--hsl-neutral-700));
+    --note-list-bar-section-header-background: var(--color-neutral-700); /* base02 */
     --note-list-view-item-header-color: var(--text-color);
     --note-list-view-item-separator-border: 1px solid hsl(var(--hsl-neutral-700));
     --note-list-view-item-date-color: hsl(var(--hsl-violet-500));
