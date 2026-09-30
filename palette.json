@@ -1,4 +1,7 @@
 {
+  "themeDevHelpersVersion": "0.7.0",
+  "name": "solarized-dark",
+  "themeAppearance": "dark",
   "--font-name": "-apple-system, BlinkMacSystemFont, Segoe UI, \"Lato\"",
   "--font-smoothing": "antialiased",
   "--header-font": "-apple-system, BlinkMacSystemFont, Segoe UI, \"Lato\", \"Helvetica Neue\", Arial, Helvetica, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
